@@ -1,6 +1,7 @@
 #include "sdlpp.hpp"
-#include <vector>
+#include <algorithm>
 #include <map>
+#include <vector>
 
 int Major[] = { 0, 2, 4, 5, 7, 9, 11, 12 };
 int Minor[] = { 0, 2, 3, 5, 7, 8, 10, 12 };
